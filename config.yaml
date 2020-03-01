@@ -4,8 +4,6 @@ title: BirminghamR
 theme: vanilla-bootstrap-hugo-theme
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-permalinks:
-  post: /:filename/
 
 # See https://feathericons.com/
 # The value of pre is the icon name
